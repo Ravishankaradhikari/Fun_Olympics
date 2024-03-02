@@ -68,3 +68,6 @@ If you navigate to http://127.0.0.1:8000 you'll see the application landing page
 Credentials for admin login are:
 Username : admin
 Password : admin
+
+## Project Images:
+![Alt text](image.png)
